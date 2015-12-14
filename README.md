@@ -1,0 +1,1 @@
+Conjunto de métodos para el analisis de llaves y/o paréntesis en una cadena, validando si esta o no balanceada.
